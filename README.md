@@ -1,4 +1,4 @@
-# Personal Dashboard for Programmers
+# Tranquil Dashboard for Chrome
 
 [Download Chrome Extension](https://chrome.google.com/webstore/detail/personal-dashboard-for-pr/apjalebbkapoippmfghefkckhlocaigh)
 
